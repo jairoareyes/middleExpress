@@ -2,101 +2,121 @@
   {
     "from": "Portal 80",
     "to": "Cajero 1",
-    "distance": 10141
+    "distance": 10141,
+    "points": "q{v[j~icM}G~Gg@f@gA}@yAyAsKgK}JmJwDmDSQpBy@xBu@NM^MrBy@VOPURg@B_@?Y?a@FQZ]FEuAwAg@e@_CyB_CaCcF}Eu@q@y@w@o@m@Z]j@m@\\]d@c@XSdBgBzBcC|A}ANOSUg@o@sAqAg@c@[_@IYEEQMb@q@j@aAJQa@g@`AuAX_@nBcBtAkAhA_AUUSU]a@y@mAwBsDwDoGyBuDq@cAX}AT{CFO`CYzB]lB]~Be@~B[ZENKTUPY\\y@d@oBPs@NWHSLe@@m@Mu@?[DSTa@h@k@xBaBVUXc@r@qAlAoCv@_C`@wARq@DQ?MCUQcAGSc@y@eAsA[m@Qo@F}EDo@TeBJ_@Ri@P]Ak@USkAs@yDwBy@e@aAa@uBw@mB}@mA_AuAi@sD{@uCq@mAQoDg@cFo@qAS{@SuBi@y@[sBw@a@UeDuBiAu@kEeDaG}Ek@e@Ng@`B{FxCaKhAyD\\c@FIVGRKLSDO@SA[GKMQKGYKK?e@Li@@a@A_Be@oBq@sC_AgC{@kC{@{@YN[t@_B\\gAJUj@oB~@wD`@mAnBuHnC_L^sAT_ALm@vAlA`@{AkAYc@KGAER[pA]tAmBpHcBtGc@PIHGRBL"
   },
   {
     "from": "Portal Norte",
     "to": "Cajero 1",
-    "distance": 4591
+    "distance": 4591,
+    "points": "uq_\\ne}bM`CX~@Hf@@~BKb@Cn@@pDf@pANbBJfIJ|ALnFf@~Ef@zBP|Gr@|Fd@hTrBbW`C\\?jALvNtAhEb@f@RfA\\TJ|@HvFh@`D\\fGj@lDZtGn@fFd@K`@_A~D_@|AiB`HyAtFwAfGqElQ]nASHWJENCNBF"
   },
   {
     "from": "Portal Sur",
     "to": "Cajero 1",
-    "distance": 24939
+    "distance": 24939,
+    "points": "{q`[fducMFsB@oB@sCCsGEiPCmCMmFQoG[}EUoEWsGUeH@o@FyA^uBd@{Bl@yBJ]Ly@J}@LuBh@uJd@aGJyA@i@Jw@?u@WwDYsCU{DUyDSuFAy@BoA\\sFTaCd@aELk@LgAZkC~@{Gd@gDh@oE`@sEl@eFZgDFsABsB?{GKeCCaCIyECaDGuB[gHSqDMuAuA}LiBmNKo@]mBc@aCg@uBiA}Ek@cCqA}DsAmDgBkEmA_DcAsCIc@@UN_A\\qABSASEUe@y@cBiC}FgJsFmIyDeFcCsCoBsBuAqAwEeEiBoAoEkCqA_A_@OgBuA_EgD}AoAyBaBgCuBkEiD}EuDuCmB}FqE{BsBoE{DoJcHmE}CgAw@GIcIoGaJiHuGeF]SQQi@u@_@WUMWSuDyCeCsBqA}@_@OqAi@gAa@cAa@yBs@wA[]QyBYyJo@uGYqCIWDo@C}COkEQwEIwEOkCEo@B}AEwGK}GOuGc@a@EIEYCkHUiHQwZiAmAGeGQaGWuG]{CQgEi@}Ba@}Dk@eGcA}KkB_Eo@cB[gA_@{Aq@o@a@uAgAuAiAaGuEyGqF_DmCeDkCmA{@cBsAiC}BsA_BmB{Bu@iA}@_BYg@oB{D{@gBy@gB_C_FaC}E_BgD?SWi@y@wBw@uBcAeCs@_Cs@iC[g@k@i@e@SkAUu@Km@AsBBwAEsEe@cCQeCMwHk@_AKKBMBeFc@qBU{AQ{E_@sFm@{Hs@cLeAgZsC}MiAiBQo@IsD]cIw@}Fk@yFe@eE_@wSqBgEc@eLeAYKKEYQ[MIEy@MwI{@yGk@w@C_A?cA?kBOgAK_BOSMOKEECQFUjAkBPMTATBHJDJDt@SpBS`DEfBDrAPdCExASbDQfDCd@e@`DGb@Ol@oApDgM_DcNkDoBe@GAER[pAaAzDoCpK]nASHWJENCNBF"
   },
   {
     "from": "Puente Aranda",
     "to": "Cajero 1",
-    "distance": 17031
+    "distance": 17031,
+    "points": "ovf[r~hcMLeFAYRwCPiDViETuDVuFJmALgAV{ARkBDq@b@qK`@uHH_B@kAGeF?mA\\gH\\eGLaBNaAj@cDZyBFkAGaFHcBAeAAkAF_Bn@sF^gD\\qCPgAb@k@HIH?VBNFRNRVBVENY`@}AlBe@n@OJUBUCYAa@O_@Uo@o@w@u@SGYOMGK?aCoBcAi@y@]cA]_Aa@mBs@wA_@o@MUMMEmAQcCSiF[cDO}@EoFSQ@MBWA{@GcAEsDO_FOcGM}BEg@Ao@BiGKkEI}DKk@GwBMkCQUIoCI{L]}Sw@gEOiHWuI]}DQoEYgAGgC[}AYcDg@{IuAyKkBuDm@gB[o@ScBo@aAi@m@c@mB_BsGcFeFeEsHkGoCsBwAkAkA}@aA}@eAgAyBoCo@s@iAqBg@}@wAoCqAkC_@}@sBkEmByDyBqEi@iA?Su@kBgAyCmAuCe@{A}@}CSi@IK_@[USUKgAYq@Kw@CcBBcBC{D_@sBSe@CgG]cGi@SFaBKwI_AmHm@aD_@}CYeFc@}D_@_SmBcJ{@uFg@gE[_Ea@cBSgHm@oGq@kFe@wHq@sBU{Iy@gYmCuAo@UKwI{@iHo@gAIy@?kA?w@CmFg@]QIKEOBSjAkBPQPCR@PFDHBTBf@Gb@Gp@WjDChB?nARbC@\\EhAObCQjDGhAi@tDI`@]dA{@fC_AUeFqAsIuBuFwAcDy@OCMf@uAxFcCnJWbAQl@IDSFKDGLCNBJ"
   },
   {
     "from": "Portal 80",
     "to": "Cajero 2",
-    "distance": 8006
+    "distance": 8006,
+    "points": "q{v[j~icM}G~Gg@f@gA}@yAyAsKgK}JmJwDmDSQpBy@xBu@NM^MrBy@VOPURg@B_@?Y?a@FQZ]FEuAwAg@e@_CyB_CaCcF}Eu@q@y@w@o@m@Z]j@m@\\]d@c@XSdBgBzBcC|A}ANOSUg@o@sAqAg@c@[_@IYEEQMb@q@j@aAJQa@g@`AuAX_@nBcBtAkAhA_AUUSU]a@y@mAwBsDwDoGyBuDq@cAX}AT{CFO`CYzB]lB]~Be@~B[ZENKTUPY\\y@d@oBPs@NWHSLe@@m@Mu@?[DSTa@h@k@xBaBVUXc@r@qAlAoCv@_C`@wARq@DQ?MCUQcAGSc@y@eAsA[m@Qo@F}EDo@TeBJ_@Ri@P]Ak@USkAs@yDwBy@e@aAa@uBw@mB}@mA_AuAi@sD{@uCq@mAQoDg@eEk@IGm@WMU?SBg@d@_C|@mDn@}Cl@{BJe@z@oCvC}I`Bn@pGvBfDjA|@Rd@B~@FbBFzCJlADjDJ"
   },
   {
     "from": "Portal Norte",
     "to": "Cajero 2",
-    "distance": 7384
+    "distance": 7384,
+    "points": "uq_\\ne}bM`CX~@Hf@@~BKb@Cn@@pDf@pANbBJfIJ|ALnFf@~Ef@zBP|Gr@|Fd@hTrBbW`C\\?jALvNtAhRfB`K~@hF`@|C\\`Jz@tQdBtE\\hE`@pFh@pIz@fFh@rLbAlJz@hBPXLv@Vr@X`E`@b@RRPNTbB`DPb@Fj@?TCb@qAbNk@xGw@fH_@rDMp@]lAkAhDoAtDgAjDcAhDoCbIkAfD_@tAYdBKjBQZQNQHYHuAAwAGSAATpBFx@B"
   },
   {
     "from": "Portal Sur",
     "to": "Cajero 2",
-    "distance": 19982
+    "distance": 19982,
+    "points": "{q`[fducMFsB@oB@sCCsGEiPCmCMmFQoG[}EUoEWsGUeH@o@FyA^uBd@{Bl@yBJ]Ly@J}@LuBh@uJd@aGJyA@i@Jw@?u@WwDYsCU{DUyDSuFAy@BoA\\sFTaCd@aEAY@WOi@USa@OkAO{@WeCqAq@[aAm@kBkA_CsAmGuD{DyBgKcGmAw@qAs@aCsAwBoA}AiAmAu@}@c@yAs@yCiBoBeAoBaAkAm@kAs@w@[o@K{C]cCe@yFoAuAUq@SyA]eFeAiGsAeRcEgZqGgJcC{H}B}HmBgBi@cC{@mLsDeJwCcMyDeA]s@]u@e@i@g@cBiBqA{AiEuEgDmDw@s@wAqAwDyDwGaHkCeCcJcJeHeH_E{DeFyDiGkEeGiEQIGG?IiBeAoBoA}CuB_BiA}DwCsCeC_D_CQKGAuCoBwRiNaH}EkLwIcDiCeAeA}A_B_Aw@]QiFaDuAy@qBiAcBkA_CaBuBuAkHaFsDwBkG{CoFgCsE{BmD}AmG{CaCsAeAw@kBkBmCqDcDiEmEaGuFmHgBaCwGyIgGkI{CcEuB{CeAiBi@_A]{@i@_Ba@wA}@iFYsCGyAAiB@aB_DoA_KcEoAg@QEGCe@Tk@VgAh@_EvBsCtA[LcATq@Zy@`@_@Py@VcCf@sDz@mBb@kDt@iAPcATeB`@}@Zu@Lm@FoHXgHVuBHgCP}Er@oDp@yC`@qGn@eBP{ARoInA[UEMIaAH{F?KXc@|CLT?"
   },
   {
     "from": "Puente Aranda",
     "to": "Cajero 2",
-    "distance": 15850
+    "distance": 15850,
+    "points": "ovf[r~hcMLeFAYRwCPiDViETuDVuFJmALgAV{ARkBDq@b@qK`@uHH_B@kAGeF?mA\\gH\\eGLaBNaAj@cDZyBFkAGaFHcBAeAAkAF_Bn@sF^gD\\qCPgAb@k@HIH?VBNFRNRVBVENY`@}AlBe@n@OJUBUCYAa@O_@Uo@o@w@u@SGYOMGK?aCoBcAi@y@]cA]_Aa@mBs@wA_@o@MUMMEmAQcCSiF[cDO}@EoFSQ@MBWA{@GcAEsDO_FOcGM}BEg@Ao@BiGKkEI}DKk@GwBMkCQUIoCI{L]}Sw@gEOiHWuI]}DQoEYgAGgC[}AYcDg@{IuAyKkBuDm@gB[o@ScBo@aAi@m@c@mB_BsGcFeFeEsHkGoCsBwAkAkA}@aA}@eAgAyBoCo@s@iAqBg@}@wAoCqAkC_@}@sBkEmByDyBqEi@iA?Su@kBgAyCmAuCe@{A}@}CSi@IK_@[USUKgAYq@Kw@CcBBcBC{D_@sBSe@CgG]cGi@SFaBKwI_AmHm@aD_@}CYeFc@}D_@_SmBcJ{@{AO]MsDa@{CYoAQkB]m@OwAOiEa@kBUgC[{BIgBS{CYmESuBWQSCIAi@Lc@Za@NG^DNLDJDX?ZMz@OrASpCOrAWhAOd@CXqAbNk@xGSdBcAtJMp@]lAkAhD{BzG_A`DkAtDoDbK_@tAYdBKjBQZQNQHg@J_DKSAATpBFx@B"
   },
   {
     "from": "Portal 80",
     "to": "Cajero 3",
-    "distance": 20206
+    "distance": 20206,
+    "points": "q{v[j~icM}G~Gg@f@gA}@yAyAsKgKzJiKdAkAFUt@u@hAgA~@aAh@g@hBqBv@y@b@c@XYh@x@Zh@b@t@d@v@jDfGzAbCLRTTl@l@PL@@RSb@g@`BwCp@qAdAaCfC_HjH_TjAiDh@mA|@eBb@q@pCqDtH{J|CmEdBoCjA}BfAaCpBqEfAiCt@mB|@mBxAeDt@yCf@uA|@iBtAoCdAcBhAyAb@c@xB}BhAaAjA{@nByAfFwDtL{IhE_DzD{CrIkGbBeA`D_C|@s@pJmHfIwFfDkChAkA|BmDLQLSNCZInCkAdBy@`Bs@lB{@d@Q\\OJ@x@f@NJPU~AkCrEkBp@SJUjBm@xD}Al@G`@ZvBfBfGbFhCjBlB|A`@^zClC`F`EpAx@tAj@vA^vBd@xCf@zI`BvAXjHhAlFr@tARn@FnEZtDRfJb@rGPfK^tSt@pVt@rGTzL^dNd@RFtGNhC@xGXlBJt@@`B@bBD`CPzFl@~AP^At@JvB`@lA\\`C~@fAh@\\R`@P|B~ApAlAhAvA|AdCJJVLp@LlA\\PHpEbEhJ|GpBbBvAnA~CdCfNdKfFxDbAp@~@r@nA~@jCnBzAnAhCxBfDpCfG~ErAdAjE~CvDtCXN|AlA`BlAx@f@b@b@`BhAnDfCdAt@n@h@rBdBfBfBfBjBnEjFxCtDpF`IzElHvAbCVr@FXNzB@z@Dv@Lx@F^Z`AbBnEtBpFtAlE|@`DLd@N^dA~D`AjErAxGf@fDn@hF~@xHj@jFVfELzCLrCBx@EVH~@?x@@vBAZELG^YXIXAZJb@JNLJVHL@XALEZWHMFUCYMa@IMEG@[EgD?aAEiACYMQGqA"
   },
   {
     "from": "Portal Norte",
     "to": "Cajero 3",
-    "distance": 22261
+    "distance": 22261,
+    "points": "uq_\\ne}bM`CX~@Hf@@~BKb@Cn@@pDf@pANbBJfIJ|ALnFf@~Ef@zBP|Gr@|Fd@hTrBbW`C\\?jALvNtAhRfB`K~@hF`@|C\\`Jz@tQdBtE\\hE`@pFh@pIz@fFh@rLbAlJz@pE`@tEf@jIv@hOxA|Fb@rEb@xJz@z@FdALrNvAxGl@ZFDDfIn@nHp@bDZZNlCt@LFjAJxBP`DZv@HdAGl@EX?p@FdD^jCVbATjATh@LjEf@f@FpFh@hFf@jBNr@Jb@Jf@RxAz@dBdA\\`@f@`A`@|@PHd@z@v@rApA`C`ErIn@pAd@hAf@fAh@|@pArCrAhC|BpElAlBvBrDl@`Af@l@x@|@|@p@jElD~JjIhCjBlB|A`@^zClC`F`EpAx@tAj@vA^vBd@tNhCvAXjHhAlFr@tARn@FnEZtDRfJb@vM`@`Md@vK^vK\\lRl@zL^dNd@RFtGNhC@xGXlBJt@@`B@bBD`CPzFl@~AP^At@JvB`@lA\\`C~@fAh@\\R`@P|B~ApAlAhAvA|AdCJJVLp@LlA\\PHpEbEhJ|GpBbBvAnA~CdCrEfD`MhJx@l@bAp@~@r@nA~@nBvAvBfBpHjGfG~ErAdAjE~CvDtCXN|AlA`BlAx@f@b@b@`BhAnDfCdAt@n@h@rBdBfBfBfBjBnEjFxCtDpF`IzElHvAbCVr@FXNzB@z@Dv@Lx@F^Z`AbBnEtBpFtAlE|@`DLd@N^dA~D`AjErAxGf@fDn@hF~@xHj@jFVfEZnHBx@EVH~@?x@@vBAZELG^MJKLIXAZJb@JNLJVHL@XALEZWHMFUCYMa@IMEG@[EgD?aAEiACYMQGqA"
   },
   {
     "from": "Portal Sur",
     "to": "Cajero 3",
-    "distance": 5046
+    "distance": 5046,
+    "points": "{q`[fducMFsB@oB@sCCsGEiPCmCMmFQoG[}EUoEWsGUeH@o@FyA^uBd@{Bl@yBJ]Ly@J}@LuBh@uJd@aGJyA@i@Jw@?u@WwDYsCU{DUyDSuFAy@BoA\\sFTaCd@aELk@LgAZkC~@{Gd@gDh@oE`@sEl@eFZgDFsABsB?{GKeCCaCIyECaDOgE"
   },
   {
     "from": "Puente Aranda",
     "to": "Cajero 3",
-    "distance": 8142
+    "distance": 8142,
+    "points": "ovf[r~hcMLeFAYRwCPiDViEI{@IMQAOB]\\]bHa@xFSvDQhDG`BOjCQ~ESfDMvBy@bPk@vMCXFTFXA`@Q|D?THPLH`@@T@Bk@^uHDs@X_F`@uJTcEDuA^wGZuGFkAJOJQR[n@Wr@k@JIfHnFxCpBrAbAz@h@z@^d@R|B~@hBbArAdApCxBpCpBnAv@fAp@bBz@n@V~@^fDjAfD`AzDrAAF?N?LH^R\\VRh@LV@ZGLEFCl@Gr@FlAd@bEdBjHrCdDvAnNxGvCrA`ElB~Ap@hCfArB`AtExBh@d@TVNV@JFVR\\RP`@Lh@AJAh@HVDd@L^Xn@d@xBhBzGdFrC|BnBzAbBhAt@f@`Af@`A`@v@TpAXtANrBXhBXZJh@Z@HDPHNJLRJTDP?PCPITSHOBWEYOa@KO?aBEoDGsA?EMOEkAAE"
   },
   {
     "from": "Portal 80",
     "to": "Cajero 4",
-    "distance": 11892
+    "distance": 11892,
+    "points": "q{v[j~icM}G~Gg@f@gA}@yAyAsKgKzJiKdAkAFUt@u@hAgA~@aAh@g@hBqBv@y@b@c@XYh@x@Zh@b@t@d@v@jDfGzAbCLRTTl@l@PL@@RSb@g@`BwCp@qAd@eAN?LEl@i@rBwBjAkALMtBrAnCdBvH|EfElCjBlAlBlA^Td@Tj@ZJBNSlAoBxC{ExCqE\\g@PIPEJOlAqBRYXQZMVCV?XDr@VJCJ?DAVNtBx@xCpAnCjAzCzAdBp@|Bt@pDlAr@j@`BpBhA`AdE`DdA|@vApAxCrCrDhDlBjBzBrBl@n@p@r@`Az@bJzHzBlCvElFV`@dBhB^^bAbAbA`AjDfDz@t@xE`D`BfAz@d@~AxAbApAx@f@|B`AvAnA|BdBxBhBzA`A`@Vd@^dA|@n@n@VVj@x@Zd@|@l@pAj@|BjBfChBxI~G~AhA|AjAn@j@jA|@~AlArDtCrClBtDfClDpCHXPZNd@Df@GbAF`@PXf@d@T^HP?LM`@Qj@yEzDiEhDgAz@[l@i@v@oA`CSd@[hAkBdHoArEiDfMkBzGeClJe@jB_@jA_@x@eAjBy@|@wAhAkAj@g@PgAXmIbBkJ`BcDp@cARNTVb@b@b@rAvAvBvBJIPGr@OVK@Mc@qB"
   },
   {
     "from": "Portal Norte",
     "to": "Cajero 4",
-    "distance": 21546
+    "distance": 21546,
+    "points": "uq_\\ne}bM`CX~@Hf@@~BKb@Cn@@pDf@pANbBJfIJ|ALnFf@~Ef@zBP|Gr@|Fd@hTrBbW`C\\?jALvNtAhRfB`K~@hF`@|C\\`Jz@tQdBtE\\hE`@pFh@pIz@fFh@rLbAlJz@hBPXLv@Vr@X`E`@b@RRPNTbB`DPb@Fj@?TCb@qAbNk@xGw@fH_@rDMp@]lAkAhDoAtDgAjDcAhDoCbIkAfD_@tAYdBKjB\\fG`@xCHr@~@vJfBlTv@lKN|@Bb@l@ZvInDxEpBz@VfAL`@@f@Ch@GlAWxD{@dCi@zAKz@?v@HbC`@zCd@bLhBzD|@n@ZTNf@f@p@`A\\bAZxA\\rB`@|BbBbKhAxFp@rBxAvDVd@`@p@b@h@x@n@VNzElBjJxD~Az@bGpDdDpB`EhChDtBfBdAzBpAvErCdEfCrCfBdFhD~JrHvA|@dEnChGzDhHtEl@XhBn@pBv@j@\\p@h@z@t@tClCh@j@bF~E|JzJ`F`F~B~B|DvDl@h@`A|@lErDrBbB`MfKtHhGrIfHtPlNhUlRv@n@@HFVjGbFlB|Ah@`@@DHPHJDP?TIVILaB`BM^@VLz@G\\eAhAGPMJe@`@mH|GuCjCoArAgA|@kF|EqGdGcBbBqAlAmAfAcEbD{CfCyIhH_FzD[l@W^g@|@gAtBSl@i@rBgEvOaDnLaEfOU~@s@fCYz@_@v@g@z@a@h@}@|@k@b@oAr@uAf@gCh@iRlD{E`Af@x@|A|ApCtCZQ~@SLI@GMm@UgA"
   },
   {
     "from": "Portal Sur",
     "to": "Cajero 4",
-    "distance": 14835
+    "distance": 14835,
+    "points": "{q`[fducMFsB@oB@sCCsGEiPCmCMmFQoG[}EUoEWsGUeH@o@FyA^uBd@{Bl@yBJ]Ly@J}@LuBh@uJd@aGJyA@i@Jw@?u@WwDYsCU{DJSPSVGv@DjCZv@JJHJLBNBLEfAAt@AVGPGHONiFKaA@_BDsCEsACaBM}C_@_B[}@SeBi@sFwA}EsAwDeAaD{@eHmB}K{CeBa@iAUmIm@uDQ{BQ{Gq@}Fm@yDc@eDa@{KiBoF}@{JcBuDg@iGg@oFWwPw@gI_@e]aBaF]wC[aC[_AQmG{AsBk@}Am@aBm@qAk@mDmB{EkCgBoAoGqF_DkCw@y@_C{BmCoCCW?GMW[Um@o@w@aAwCeE{A}BgAuAgBaCm@q@]_@EMGW@OJWFK`Au@~@k@LC\\BTNPX?PGZCHcCxAo@j@}@n@qA`A}GjFgEzDkF|EeCdCuEbEoG~FcDbDqBjBmAfAcEbD{CfCyFxEoDrCoCvB[l@W^g@|@g@|@_@v@Sl@eD`MkDjMoF|Rs@zCcA~C_@v@g@z@aAjAiA~@oAr@g@RgA\\mB^qMbCmHvAeARf@x@nFrFZQTEr@SDKOs@SaA"
   },
   {
     "from": "Puente Aranda",
     "to": "Cajero 4",
-    "distance": 8916
+    "distance": 8916,
+    "points": "ovf[r~hcMLeFAYRwCPiDViEI{@IMQAOB]\\]bHa@xFSvDQhDSn@[pA_@`AORUD_@h@kAlAaCxBcAx@uBvAuAnA_B`BsDvD_AbAoC~CmGpHoExFaD`E}AbCiDnF{BlDwAfC{BrDwEbGu@z@_@Z]X}@d@c@RwBh@}I`AiHn@kATc@JyA^wAn@eC|AuBnBcCxAqAdAsDpCoFdEsL|KeAbAgAbAiFxEoGbGaC~BuCnCmBzAmBzAkAdA}CdCyEzDiEhDgAz@[l@i@v@oA`CSd@[hAkBdHoArEiDfMkBzGeClJe@jB_@jA_@x@eAjBy@|@wAhAkAj@g@PgAXmIbBkJ`BcDp@cARNTVb@b@b@rAvAvBvBJIPGr@OVK@Mc@qB"
   },
   {
     "from": "Portal 80",
     "to": "Cajero 5",
-    "distance": 8553
+    "distance": 8553,
+    "points": "q{v[j~icM}G~Gg@f@gA}@yAyAsKgKzJiKdAkAFUt@u@hAgA~@aAh@g@hBqBv@y@b@c@XYh@x@Zh@b@t@d@v@jDfGzAbCLRTTl@l@PL@@RSb@g@`BwCp@qAd@eAN?LEl@i@rBwBjAkALMtBrAnCdBvH|EfElCjBlAlBlA^Td@Tj@ZJBNSlAoBxC{ExCqE\\g@PIPEJOlAqBRYXQZMVCV?XDr@VJCJ?DAVNtBx@xCpAnCjAzCzAdBp@|Bt@pDlAr@j@`BpBhA`AdE`DdA|@vApAxCrCrDhDlBjBzBrBl@n@p@r@`Az@bJzHzBlCvElFV`@dBhB^^bAbAbA`AjDfDz@t@xE`D`BfAz@d@~AxAbApAx@f@|B`AvAnA|BdBxBhBzA`A`@Vd@^dA|@n@n@VVj@x@R@N?FCBM@WqAu@qB{AeDgCOMNOtAqA~BcCpCiCfGgF`KyIvAmA"
   },
   {
     "from": "Portal Norte",
     "to": "Cajero 5",
-    "distance": 17294
+    "distance": 17294,
+    "points": "uq_\\ne}bM`CX~@Hf@@~BKb@Cn@@pDf@pANbBJfIJ|ALnFf@~Ef@zBP|Gr@|Fd@hTrBbW`C\\?jALvNtAhRfB`K~@hF`@|C\\`Jz@tQdBtE\\hE`@pFh@pIz@fFh@rLbAlJz@hBPXLv@Vr@X`E`@b@RRPNTbB`DPb@Fj@?TCb@qAbNk@xGw@fH_@rDMp@]lAkAhDoAtDgAjDcAhDoCbIkAfD_@tAYdBKjB\\fG`@xCHr@~@vJfBlTv@lKN|@Bb@l@ZvInDxEpBz@VfAL`@@f@Ch@GlAWxD{@dCi@zAKz@?v@HbC`@zCd@bLhBzD|@n@ZTNf@f@p@`A\\bAZxA\\rB`@|BbBbKhAxFp@rBxAvDVd@`@p@b@h@x@n@VNzElBjJxD~Az@bGpDdDpB`EhChDtBfBdAzBpAvErCdEfCrCfBdFhD~JrHvA|@dEnChGzDhHtEl@XhBn@pBv@j@\\p@h@z@t@tClCh@j@bF~E|JzJ`F`F~B~B|DvDl@h@`A|@lErDrBbB`MfKDPDNn@f@`Av@fA|@dBtAtD~CrAfAdA|@[`@yAdBg@h@sDlEyEtFw@fA_Ax@QTCV?LPh@B^KT}ArAgAsAqB_CoDiEuAiAoBbB}BpBoAfAe@i@iAsAc@g@`DqCvAmA"
   },
   {
     "from": "Portal Sur",
     "to": "Cajero 5",
-    "distance": 14118
+    "distance": 14118,
+    "points": "{q`[fducMFsB@oB@sCCsGEiPCmCMmFQoG[}EUoEWsGUeH@o@FyA^uBd@{Bl@yBJ]Ly@J}@LuBh@uJd@aGJyA@i@Jw@?u@WwDYsCU{DJSPSVGv@DjCZv@JJHJLBNBLEfAAt@AVGPGHONiFKaA@_BDsCEsACaBM}C_@_B[}@SeBi@sFwA}EsAwDeAaD{@eHmB}K{CeBa@iAUmIm@uDQ{BQ{Gq@}Fm@yDc@eDa@{KiBoF}@{JcBuDg@iGg@oFWwPw@gI_@e]aBaF]wC[aC[_AQmG{AsBk@}Am@aBm@qAk@mDmB{EkCgBoAoGqF_DkCw@y@_C{BmCoCu@s@iBuBiBiBi@s@_BcCgAqAiBeCsC_DkEqDiEkDgHaGsJcIaG}EeLmJeGgF{CeC[WAE?COSEGAKqAgAi@c@{@s@kA}@Ac@DYhByBLIJATBRJjA`AJNDN?NETQ^WPeBrA_@\\cCvBoNxLiGnFgI~GqHrGqD|Ce@k@e@i@n@e@~BuBlArAJNfDyC|JqIHI"
   },
   {
     "from": "Puente Aranda",
     "to": "Cajero 5",
-    "distance": 8478
+    "distance": 8478,
+    "points": "ovf[r~hcMLeFAYRwCPiDViEI{@IMQAOB]\\]bHa@xFSvDQhDSn@[pA_@`AORUD_@h@kAlAaCxBcAx@uBvAuAnA_B`BsDvD_AbAoC~CmGpHoExFaD`E}AbCiDnF{BlDwAfC{BrDwEbGu@z@_@Z]X}@d@c@RwBh@}I`AiHn@kATc@JyA^wAn@eC|AuBnBcCxAqAdAsDpCoFdEsL|KeAbAgAbAiFxEoGbGaC~BuCnCWR_@Hi@Lm@HSAKIk@k@YYUOc@Ic@@s@Pa@B_@E_AYOCSSkB{AiFgD{BcB{AoAy@s@kA}@gCiBcAy@sAiA}ByAkCsBqAoAgAy@kDuC_CiBq@q@mAeAqAu@qB{AeDgCOMNOtAqA~BcCpCiCfGgF`KyIvAmA"
   }
 ]

@@ -36,6 +36,7 @@ async function calc() {
             });
             
             response.distance = data.routes[0].legs[0].distance.value
+            response.points = data.routes[0].overview_polyline.points
             res.push(response);
         }
 

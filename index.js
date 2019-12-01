@@ -4,11 +4,11 @@ const morgan = require('morgan');
 const cors = require('cors');
 const cron = require('node-cron');
 const fs = require('fs');
-const { cajeros } = require('./data.json');
+const distances = require('./distances.json')
 const axios = require('axios')
+const btoa = require("btoa")
 var request = require( 'request' );
 const XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
-const btoa = require("btoa");
 const wml_credentials = new Map();
 
 const googleInstance = axios.create({
@@ -40,27 +40,18 @@ app.get('/health', function (req, res) {
 
 app.get('/recoroutes', async function (req, res, next) {
   try {
-    const end = cajeros.length - 1;
-
     let result = [];
-    for (let i = 0; i < end; i++) {
-      const origin = cajeros[i];
-      const destination = cajeros[i+1];
-      const { data } = await googleInstance.get('', {
-        params: {
-          origin: `${origin.lat},${origin.lng}`,
-          destination: `${destination.lat},${destination.lng}`,
-          key: 'AIzaSyB2Cj83JhIz00MNyvTZ7fNmqJs6sgu8OSE'
-        }
-      })
+    const clusteredCajeros = distances.reduce((previous, current) => {
+      if (!previous[current.to]) previous[current.to] = [current];
+      else previous[current.to].push(current);
+      return previous;
+    }, {})
 
-      const route = data.routes[0];
+    for (const cluster in clusteredCajeros) {
 
-      result.push({
-        points: route.overview_polyline.points,
-        distance: route.legs[0].distance
-      });
-    }  
+      const lessCluster = clusteredCajeros[cluster].reduce((prev, curr) => curr.distance < prev.distance ? curr : prev , { distance: Infinity });
+      result.push(lessCluster);
+    }
 
     res.status(200).json(result);
     
@@ -129,7 +120,7 @@ var IBM_Cloud_IAM_pwd = "bx";
 
 var options = { url     : "https://iam.bluemix.net/oidc/token",
                 headers : { "Content-Type"  : "application/x-www-form-urlencoded",
-                            "Authorization" : "Basic " + btoa( IBM_Cloud_IAM_uid + ":" + IBM_Cloud_IAM_pwd ) },
+                            "Authorization" : "Basic " + Buffer.from( IBM_Cloud_IAM_uid + ":" + IBM_Cloud_IAM_pwd).toString('base64') },
                 body    : "apikey=" + apikey + "&grant_type=urn:ibm:params:oauth:grant-type:apikey" };
 
 request.post( options, function( error, response, body )
