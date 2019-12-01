@@ -33,6 +33,7 @@ let token = '';
 //Middleware
 app.use(morgan('dev'))
 app.use(cors());
+app.use()
 
 app.get('/health', function (req, res) {
   res.status(200).json({ status: 'OK' });
@@ -75,8 +76,18 @@ function apiPost(scoring_url, token, mlInstanceID, payload, loadCallback, errorC
 }
 
 
-app.get('/modeloML', async function (req, res, next) {
+app.post('/modeloML', async function (req, res, next) {
   try {
+    const { body } = req;
+
+    const payload = {
+      input_data: [
+        { 
+          fileds: ["ATM", "Dia", "Hora", "Cant. 50.000", "Cant. 20.000", "Cant. 10.000"]
+        }
+      ]
+    }
+
     const wmlToken = "Bearer " + token
     const mlInstanceId = 'de642664-1a14-4124-91d6-d7f894e8c6e3';
     // NOTE: manually define and pass the array(s) of values to be scored in the next line
