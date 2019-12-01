@@ -1,11 +1,11 @@
 const express = require('express')
 const app = express();
 const morgan = require('morgan');
-const request = require('request');
 const cors = require('cors');
 const cron = require('node-cron');
 const fs = require('fs');
-const { cajeros } = require('./data');
+const { cajeros } = require('./data.json');
+const distancesFromBodegasToCajeros = require('./findDistances');
 const axios = require('axios');
 
 const googleInstance = axios.create({
@@ -37,26 +37,30 @@ app.get('/health', function (req, res) {
 
 app.get('/recoroutes', async function (req, res, next) {
   try {
-    const totalPoints = cajeros.length;
-    const origin = cajeros[0];
-    const destination = cajeros[totalPoints - 1];
-  
-    cajeros.slice(0, 1);
-    cajeros.splice(totalPoints - 1, 1);
-  
-    const waypoints = cajeros.reduce((prev, { lat, lng }) => prev + `via:${lat}%,${lng}|`, '');
-  
-    console.log('waypoints', waypoints);
-  
-    const { data } = await googleInstance.get('', {
-      params: {
-        origin: `${origin.lat},${origin.lng}`,
-        destination: `${destination.lat},${destination.lng}`,
-        key: 'AIzaSyB2Cj83JhIz00MNyvTZ7fNmqJs6sgu8OSE'
-      }
-    })
-  
-    res.status(200).json(data);
+    const end = cajeros.length - 1;
+
+    let result = [];
+    for (let i = 0; i < end; i++) {
+      const origin = cajeros[i];
+      const destination = cajeros[i+1];
+      const { data } = await googleInstance.get('', {
+        params: {
+          origin: `${origin.lat},${origin.lng}`,
+          destination: `${destination.lat},${destination.lng}`,
+          key: 'AIzaSyB2Cj83JhIz00MNyvTZ7fNmqJs6sgu8OSE'
+        }
+      })
+
+      const route = data.routes[0];
+
+      result.push({
+        points: route.overview_polyline.points,
+        distance: route.legs[0].distance
+      });
+    }  
+
+    res.status(200).json(result);
+    
   } catch (error) {
     next(error);
   }

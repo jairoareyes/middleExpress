@@ -1,0 +1,102 @@
+[
+  {
+    "from": "Portal 80",
+    "to": "Cajero 1",
+    "distance": 10141
+  },
+  {
+    "from": "Portal Norte",
+    "to": "Cajero 1",
+    "distance": 4591
+  },
+  {
+    "from": "Portal Sur",
+    "to": "Cajero 1",
+    "distance": 24939
+  },
+  {
+    "from": "Puente Aranda",
+    "to": "Cajero 1",
+    "distance": 17031
+  },
+  {
+    "from": "Portal 80",
+    "to": "Cajero 2",
+    "distance": 8006
+  },
+  {
+    "from": "Portal Norte",
+    "to": "Cajero 2",
+    "distance": 7384
+  },
+  {
+    "from": "Portal Sur",
+    "to": "Cajero 2",
+    "distance": 19982
+  },
+  {
+    "from": "Puente Aranda",
+    "to": "Cajero 2",
+    "distance": 15850
+  },
+  {
+    "from": "Portal 80",
+    "to": "Cajero 3",
+    "distance": 20206
+  },
+  {
+    "from": "Portal Norte",
+    "to": "Cajero 3",
+    "distance": 22261
+  },
+  {
+    "from": "Portal Sur",
+    "to": "Cajero 3",
+    "distance": 5046
+  },
+  {
+    "from": "Puente Aranda",
+    "to": "Cajero 3",
+    "distance": 8142
+  },
+  {
+    "from": "Portal 80",
+    "to": "Cajero 4",
+    "distance": 11892
+  },
+  {
+    "from": "Portal Norte",
+    "to": "Cajero 4",
+    "distance": 21546
+  },
+  {
+    "from": "Portal Sur",
+    "to": "Cajero 4",
+    "distance": 14835
+  },
+  {
+    "from": "Puente Aranda",
+    "to": "Cajero 4",
+    "distance": 8916
+  },
+  {
+    "from": "Portal 80",
+    "to": "Cajero 5",
+    "distance": 8553
+  },
+  {
+    "from": "Portal Norte",
+    "to": "Cajero 5",
+    "distance": 17294
+  },
+  {
+    "from": "Portal Sur",
+    "to": "Cajero 5",
+    "distance": 14118
+  },
+  {
+    "from": "Puente Aranda",
+    "to": "Cajero 5",
+    "distance": 8478
+  }
+]
