@@ -5,7 +5,6 @@ const cors = require('cors');
 const cron = require('node-cron');
 const fs = require('fs');
 const { cajeros } = require('./data.json');
-const distancesFromBodegasToCajeros = require('./findDistances');
 const axios = require('axios');
 
 const googleInstance = axios.create({
